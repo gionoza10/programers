@@ -4,8 +4,11 @@ surname = "nozadze"
 
 age = 13
 
-height = 165
+height = 167
 
+country="Georgia"
 
-print(name + " " + surname + " " + str(age) + " " + str(height))
+city="Surami"
+
+print(name + " " + surname + " " + str(age) + " " + str(height) + " " + country + " " + city)
 
